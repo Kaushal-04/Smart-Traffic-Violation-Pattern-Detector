@@ -1,0 +1,5 @@
+[
+  {"Violation_ID": "V007", "Timestamp": "2025-10-21 16:00:00", "Location": "INT_90", "Violation_Type": "Red Light", "Vehicle_Type": "Car", "Severity": 5},
+  {"Violation_ID": "V008", "Timestamp": "", "Location": "INT_12", "Violation_Type": "Speeding", "Vehicle_Type": "Truck", "Severity": 4},
+  {"Violation_ID": "V009", "Timestamp": "2025-10-21T16:30:00Z", "Location": null, "Violation_Type": "Lane Violation", "Vehicle_Type": "Bike", "Severity": null}
+]
