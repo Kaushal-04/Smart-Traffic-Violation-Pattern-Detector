@@ -1,5 +1,102 @@
 [
-  {"Violation_ID": "V007", "Timestamp": "2025-10-21 16:00:00", "Location": "INT_90", "Violation_Type": "Red Light", "Vehicle_Type": "Car", "Severity": 5},
-  {"Violation_ID": "V008", "Timestamp": "", "Location": "INT_12", "Violation_Type": "Speeding", "Vehicle_Type": "Truck", "Severity": 4},
-  {"Violation_ID": "V009", "Timestamp": "2025-10-21T16:30:00Z", "Location": null, "Violation_Type": "Lane Violation", "Vehicle_Type": "Bike", "Severity": null}
+  {
+    "Violation_ID": "V001",
+    "Timestamp": "2025-10-21 16:00:00",
+    "Location": "INT_90",
+    "Violation_Type": "Red Light",
+    "Vehicle_Type": "Car",
+    "Severity": "5",
+    "Latitude": "38.9072",
+    "Longitude": "-77.0369"
+  },
+  {
+    "Violation_ID": "V002",
+    "Timestamp": "2025-10-21T16:30:00Z",
+    "Location": "INT_12",
+    "Violation_Type": "Speeding",
+    "Vehicle_Type": "Truck",
+    "Severity": "4",
+    "Latitude": "38.9100",
+    "Longitude": "-77.0500"
+  },
+  {
+    "Violation_ID": "V003",
+    "Timestamp": "2025-10-22 08:15:00",
+    "Location": "HWY_101",
+    "Violation_Type": "Lane Violation",
+    "Vehicle_Type": "Bike",
+    "Severity": "3",
+    "Latitude": "38.9050",
+    "Longitude": "-77.0400"
+  },
+  {
+    "Violation_ID": "V004",
+    "Timestamp": "2025-10-22T09:05:00Z",
+    "Location": "HWY_101",
+    "Violation_Type": "Speeding",
+    "Vehicle_Type": "Car",
+    "Severity": "6",
+    "Latitude": "38.9072",
+    "Longitude": "-77.0369"
+  },
+  {
+    "Violation_ID": "V005",
+    "Timestamp": "2025-10-22 10:00:00",
+    "Location": "Downtown",
+    "Violation_Type": "Illegal Parking",
+    "Vehicle_Type": "Van",
+    "Severity": "2",
+    "Latitude": "38.8951",
+    "Longitude": "-77.0364"
+  },
+  {
+    "Violation_ID": "V006",
+    "Timestamp": "2025-10-22 14:20:00",
+    "Location": "INT_90",
+    "Violation_Type": "Red Light",
+    "Vehicle_Type": "Car",
+    "Severity": "5",
+    "Latitude": "38.9072",
+    "Longitude": "-77.0369"
+  },
+  {
+    "Violation_ID": "V007",
+    "Timestamp": "2025-10-23 17:45:00",
+    "Location": "Main St",
+    "Violation_Type": "Speeding",
+    "Vehicle_Type": "Truck",
+    "Severity": "5",
+    "Latitude": "38.8977",
+    "Longitude": "-77.0365"
+  },
+  {
+    "Violation_ID": "V008",
+    "Timestamp": "2025-10-23T18:00:00Z",
+    "Location": "INT_12",
+    "Violation_Type": "Red Light",
+    "Vehicle_Type": "Car",
+    "Severity": "5",
+    "Latitude": "38.9100",
+    "Longitude": "-77.0500"
+  },
+  {
+    "Violation_ID": "V009",
+    "Timestamp": "2025-10-24 01:00:00",
+    "Location": "HWY_101",
+    "Violation_Type": "Speeding",
+    "Vehicle_Type": "Car",
+    "Severity": "7",
+    "Latitude": "38.9050",
+    "Longitude": "-77.0400"
+  },
+  {
+    "Violation_ID": "V010",
+    "Timestamp": "2025-10-24T03:30:00Z",
+    "Location": "Downtown",
+    "Violation_Type": "Illegal Parking",
+    "Vehicle_Type": "Car",
+    "Severity": "2",
+    "Latitude": "38.8951",
+    "Longitude": "-77.0364"
+  }
 ]
