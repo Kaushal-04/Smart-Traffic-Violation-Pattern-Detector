@@ -40,7 +40,7 @@ df_top_locations = load_data(top_locations_path)
 df_hotspots = load_data(hotspots_path)
 
 
-st.title("🚦 Smart Traffic Violation Pattern Analysis")
+st.title("🚦 Smart Traffic Violation Pattern Detector")
 
 st.markdown("""
 This dashboard visualizes traffic violation patterns identified by the PySpark pipeline. 
