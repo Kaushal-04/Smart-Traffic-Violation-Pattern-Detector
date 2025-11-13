@@ -1,102 +1,5002 @@
 [
-  {
-    "Violation_ID": "V001",
-    "Timestamp": "2025-10-21 16:00:00",
-    "Location": "INT_90",
-    "Violation_Type": "Red Light",
-    "Vehicle_Type": "Car",
-    "Severity": "5",
-    "Latitude": "38.9072",
-    "Longitude": "-77.0369"
-  },
-  {
-    "Violation_ID": "V002",
-    "Timestamp": "2025-10-21T16:30:00Z",
-    "Location": "INT_12",
-    "Violation_Type": "Speeding",
-    "Vehicle_Type": "Truck",
-    "Severity": "4",
-    "Latitude": "38.9100",
-    "Longitude": "-77.0500"
-  },
-  {
-    "Violation_ID": "V003",
-    "Timestamp": "2025-10-22 08:15:00",
-    "Location": "HWY_101",
-    "Violation_Type": "Lane Violation",
-    "Vehicle_Type": "Bike",
-    "Severity": "3",
-    "Latitude": "38.9050",
-    "Longitude": "-77.0400"
-  },
-  {
-    "Violation_ID": "V004",
-    "Timestamp": "2025-10-22T09:05:00Z",
-    "Location": "HWY_101",
-    "Violation_Type": "Speeding",
-    "Vehicle_Type": "Car",
-    "Severity": "6",
-    "Latitude": "38.9072",
-    "Longitude": "-77.0369"
-  },
-  {
-    "Violation_ID": "V005",
-    "Timestamp": "2025-10-22 10:00:00",
-    "Location": "Downtown",
-    "Violation_Type": "Illegal Parking",
-    "Vehicle_Type": "Van",
-    "Severity": "2",
-    "Latitude": "38.8951",
-    "Longitude": "-77.0364"
-  },
-  {
-    "Violation_ID": "V006",
-    "Timestamp": "2025-10-22 14:20:00",
-    "Location": "INT_90",
-    "Violation_Type": "Red Light",
-    "Vehicle_Type": "Car",
-    "Severity": "5",
-    "Latitude": "38.9072",
-    "Longitude": "-77.0369"
-  },
-  {
-    "Violation_ID": "V007",
-    "Timestamp": "2025-10-23 17:45:00",
-    "Location": "Main St",
-    "Violation_Type": "Speeding",
-    "Vehicle_Type": "Truck",
-    "Severity": "5",
-    "Latitude": "38.8977",
-    "Longitude": "-77.0365"
-  },
-  {
-    "Violation_ID": "V008",
-    "Timestamp": "2025-10-23T18:00:00Z",
-    "Location": "INT_12",
-    "Violation_Type": "Red Light",
-    "Vehicle_Type": "Car",
-    "Severity": "5",
-    "Latitude": "38.9100",
-    "Longitude": "-77.0500"
-  },
-  {
-    "Violation_ID": "V009",
-    "Timestamp": "2025-10-24 01:00:00",
-    "Location": "HWY_101",
-    "Violation_Type": "Speeding",
-    "Vehicle_Type": "Car",
-    "Severity": "7",
-    "Latitude": "38.9050",
-    "Longitude": "-77.0400"
-  },
-  {
-    "Violation_ID": "V010",
-    "Timestamp": "2025-10-24T03:30:00Z",
-    "Location": "Downtown",
-    "Violation_Type": "Illegal Parking",
-    "Vehicle_Type": "Car",
-    "Severity": "2",
-    "Latitude": "38.8951",
-    "Longitude": "-77.0364"
-  }
+    {
+        "Violation_ID": "c16c2b06-df6c-4ddc-b769-c058c7e1a54d",
+        "Timestamp": "2025-11-07T10:02:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "70bf7a75-9b91-4d12-bb15-fd45689ce8f8",
+        "Timestamp": "2025-11-04T08:32:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "f3100b32-54d2-46d4-9819-22cb425aeda3",
+        "Timestamp": "2025-11-02T04:05:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "fc1a9259-a5a9-46ed-b30a-f89c1aed6a3f",
+        "Timestamp": "2025-11-09T08:02:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "b4616a52-8c3d-4dd1-9d45-87523375df59",
+        "Timestamp": "2025-10-17T10:45:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "dfe43768-3047-4113-9e8b-57683798e775",
+        "Timestamp": "2025-10-14T08:34:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "9c227bbb-33d8-4672-ad9d-e10cc3f92eb0",
+        "Timestamp": "2025-11-03T12:41:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "9e224d2f-fd52-472d-a638-c1c9a55fb5af",
+        "Timestamp": "2025-10-20T04:24:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "f518ac8e-0f15-45ad-bfed-d869be104458",
+        "Timestamp": "2025-11-12T15:31:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "2b2bc28d-ab6f-492c-97c7-2a28235488d9",
+        "Timestamp": "2025-10-28T11:36:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "83476b94-dfc7-4f75-8bae-05c1cacad620",
+        "Timestamp": "2025-11-04T05:33:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "b33688b9-684a-4e37-811e-d8b0eb9416e1",
+        "Timestamp": "2025-11-10T05:20:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "f468d135-7df7-4a41-8c75-3de03231a196",
+        "Timestamp": "2025-11-08T19:52:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "326903ff-df2a-4ba1-a352-a14e3682ad1b",
+        "Timestamp": "2025-10-27T18:59:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "d40efebd-bbe9-4059-a04e-cdc78d628063",
+        "Timestamp": "2025-10-27T19:25:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "6cd0c08c-9432-4ace-8f07-1f4979c4b81b",
+        "Timestamp": "2025-11-08T13:33:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "560d38b4-0639-47f4-bf8a-e88826f03232",
+        "Timestamp": "2025-10-22T10:33:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "9826cf3e-504a-4725-88f6-5b7528fc5463",
+        "Timestamp": "2025-11-08T19:44:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "8478ee85-588e-4a99-8fd6-bcb73ed75d5d",
+        "Timestamp": "2025-10-23T22:24:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "56e92d48-71c6-4b19-b653-efdc3212bf46",
+        "Timestamp": "2025-11-12T03:21:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "d2b235ea-68f2-4828-b207-67b27dd23248",
+        "Timestamp": "2025-10-26T13:17:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "4ecde1a0-37ac-4a03-8ecf-6a16d7950f45",
+        "Timestamp": "2025-10-30T11:33:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "9d60baa8-68bf-480a-9e1a-bcf97d4fa260",
+        "Timestamp": "2025-11-01T16:03:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "57e430ce-242e-48b8-9c73-2d6638c001bd",
+        "Timestamp": "2025-10-21T04:59:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "1279c94c-b757-4e61-9522-b3607170b93d",
+        "Timestamp": "2025-11-10T20:04:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "0d02b71d-6401-4a2c-b15f-819df68ed81a",
+        "Timestamp": "2025-10-25T07:37:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "5180629f-0d8a-4685-ba24-e2f8a7dcb56a",
+        "Timestamp": "2025-10-27T23:20:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "3209ab8f-5a1c-40e9-bdea-fd056475429e",
+        "Timestamp": "2025-11-08T04:53:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "373a1fd0-3559-4cab-a640-6bf116b6b14d",
+        "Timestamp": "2025-11-10T23:10:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "34467bbd-15c5-4a31-8b1e-7fb5cdba839f",
+        "Timestamp": "2025-11-13T18:11:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "c9ee6d90-7628-4163-8386-35121b03c890",
+        "Timestamp": "2025-11-01T05:55:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "dac82a2f-abf2-45c2-a406-73db33996f4e",
+        "Timestamp": "2025-10-23T01:17:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "74cc8562-a3d4-4607-9326-1051544c6511",
+        "Timestamp": "2025-11-01T20:17:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "bae5c1bf-3fdd-44ef-a071-c3f35d1dad85",
+        "Timestamp": "2025-10-22T07:34:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "ba734eb1-caf3-4b7c-a82f-5a1b0309e0aa",
+        "Timestamp": "2025-11-08T09:52:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "f5542710-049f-46fb-9110-69f875fc261e",
+        "Timestamp": "2025-10-29T03:16:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "cd1c8da5-8053-48ee-8a81-dd4fb48e329f",
+        "Timestamp": "2025-11-06T09:05:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "b696cb8a-fd83-4077-989b-41af5977ae8b",
+        "Timestamp": "2025-11-09T04:32:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "eee432f5-c4e4-41cc-8960-0e3e745b8b90",
+        "Timestamp": "2025-10-30T03:12:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "9b04e149-0adf-450f-b99f-1ffd226bf281",
+        "Timestamp": "2025-10-23T14:50:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "34be565a-355e-48da-8522-dacd81fff077",
+        "Timestamp": "2025-10-29T17:23:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "41f58d2b-2d39-4c48-be97-a63bcf47c7d7",
+        "Timestamp": "2025-11-07T07:15:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Bus",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "876e55a3-2bb9-4215-9226-36ca00e60368",
+        "Timestamp": "2025-10-28T06:12:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "ba7b66c7-e651-4703-bb05-5fbc81f832e6",
+        "Timestamp": "2025-11-03T11:28:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Bus",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "3b06d482-7090-457a-9bc4-3b2679e8f520",
+        "Timestamp": "2025-10-21T06:46:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "3358a9b9-4449-4bb5-848f-d68e004bbdd6",
+        "Timestamp": "2025-10-28T00:54:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "ef99d826-8a7d-408d-b6c1-8cdbdd53c10d",
+        "Timestamp": "2025-11-13T01:21:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "779d23ad-effe-4f31-b330-f6bfd3746bac",
+        "Timestamp": "2025-10-31T13:56:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "442010e9-bb52-4e40-93a1-536ffec40535",
+        "Timestamp": "2025-10-16T10:42:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "2edf2236-db78-4e04-bf6c-de88dacc688d",
+        "Timestamp": "2025-11-11T11:36:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "4c38a38b-a9a3-48f3-9d29-39df1e670671",
+        "Timestamp": "2025-10-25T15:50:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "76dbb784-06fd-4896-a44c-d1b1f0e3767a",
+        "Timestamp": "2025-11-12T14:07:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "17d267e8-14ed-47de-8ae1-6bb5e5e67234",
+        "Timestamp": "2025-10-30T21:47:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "01ab05e5-4411-44ad-bc1a-9c3f5197773f",
+        "Timestamp": "2025-10-19T04:19:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "44cbf599-2de5-4839-9fe0-f295db83ea4c",
+        "Timestamp": "2025-11-09T13:53:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "39611648-f515-4c83-bab6-0bcca7ad505d",
+        "Timestamp": "2025-10-27T12:23:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "7ae64257-eb8b-4cda-b95e-f5b15e3787d8",
+        "Timestamp": "2025-11-05T04:58:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "c1c5efc2-05ef-4f36-95b2-0ce227d6cb11",
+        "Timestamp": "2025-11-13T21:59:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "68bf00d5-9e70-427a-a796-3a38653f772f",
+        "Timestamp": "2025-11-03T14:19:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "5727df83-c671-4ec2-8c97-913533717c50",
+        "Timestamp": "2025-11-01T08:55:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "6934c754-396e-41fa-b4df-d9add29023d2",
+        "Timestamp": "2025-10-17T08:51:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "2cae3403-93a9-4ecb-8ee1-55f4a814796d",
+        "Timestamp": "2025-11-03T07:29:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "5cf302c6-9b77-4261-ab7b-2129ffa6d2b7",
+        "Timestamp": "2025-10-24T03:26:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "d66155ad-28d2-4f43-91cf-4d70b5747524",
+        "Timestamp": "2025-10-15T06:21:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Bus",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "9b1795ca-b57b-4b2a-a1ad-9fb90d2c5778",
+        "Timestamp": "2025-11-02T23:46:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "f5199a93-a2ec-4217-9b03-1c27e3887830",
+        "Timestamp": "2025-10-22T03:48:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "9aa8daf1-33b6-4862-8e16-c453855106d7",
+        "Timestamp": "2025-10-25T14:06:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "bef86c17-8a06-495b-85be-54d5cb6f9084",
+        "Timestamp": "2025-11-03T08:05:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "472cc3b6-83e3-486a-bb04-edd94cd5960d",
+        "Timestamp": "2025-10-18T05:20:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "ee7632f1-081d-47cd-aebf-e32e4350a435",
+        "Timestamp": "2025-10-26T17:08:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "e26feecf-4725-44ce-b2f0-4609385ad3fb",
+        "Timestamp": "2025-10-19T20:55:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "06e7ada2-c288-41ec-aa95-ad393460d2e8",
+        "Timestamp": "2025-11-06T02:12:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "f357ab85-8aff-4037-ae67-9899b3ce860a",
+        "Timestamp": "2025-10-16T17:03:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "ff5e65a5-01f8-4a1f-85a6-3ffae8bc73c3",
+        "Timestamp": "2025-10-24T01:13:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Truck",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "8215e4fa-24d3-4459-96d1-fd56b9946f79",
+        "Timestamp": "2025-11-04T15:19:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "26d1ded9-2339-4816-8db0-84f1ac3fdf17",
+        "Timestamp": "2025-10-17T13:49:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "c595f6d4-636c-4ae4-9750-412c939ee1c5",
+        "Timestamp": "2025-11-09T12:52:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "aa104d78-3198-4b3c-b5de-aede53c1b03c",
+        "Timestamp": "2025-10-16T12:50:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "e02511f7-2b70-41f2-8bdf-2ef77149729c",
+        "Timestamp": "2025-10-19T02:59:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "28f0b62c-2ae6-4975-8450-8972e04e1fc9",
+        "Timestamp": "2025-11-01T20:38:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "ddd3aec6-6ecd-4255-9687-ad515dba5649",
+        "Timestamp": "2025-11-05T16:56:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "4f1fbcf7-5e96-4daf-97d6-4d009cc3568f",
+        "Timestamp": "2025-11-01T17:50:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "20c7d9e9-119f-4080-82bb-1f2834f64bdd",
+        "Timestamp": "2025-11-05T04:48:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "303b1501-ebdb-4342-bd70-074661920780",
+        "Timestamp": "2025-10-27T06:02:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Bus",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "54067f09-42a5-4276-be0d-25ac9a238e9c",
+        "Timestamp": "2025-11-13T21:04:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "fb9f72fc-9b42-4e7b-975a-06a5f8a5ad07",
+        "Timestamp": "2025-10-16T08:08:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "8cf4559b-a1b6-4903-b984-6a9bf912f65d",
+        "Timestamp": "2025-10-15T22:17:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "c160ce11-8094-4bed-8797-5bc30fdb3cfb",
+        "Timestamp": "2025-10-31T10:02:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "35a6fb63-7326-4fad-8d8d-125de407739b",
+        "Timestamp": "2025-11-10T19:30:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "3c344cfe-514c-43de-9b84-e00dd5d77275",
+        "Timestamp": "2025-11-03T01:50:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Truck",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "8d08ff97-91e9-4506-9371-ac81bab903a4",
+        "Timestamp": "2025-11-10T01:58:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "f0da1f4b-2654-490f-8e33-3acb54896697",
+        "Timestamp": "2025-10-30T16:38:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "34d3d1b8-1346-4d84-8fd4-137cbac25230",
+        "Timestamp": "2025-11-07T04:11:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "a43458fc-2cd0-41fe-9d8d-a92577c983af",
+        "Timestamp": "2025-10-29T06:09:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "7d929d08-2923-4af1-a746-f1fed240b783",
+        "Timestamp": "2025-10-17T01:15:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Truck",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "48cdbd28-b0a4-47c6-a3ca-72021a61c9db",
+        "Timestamp": "2025-10-23T04:42:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "2759c2dc-3b20-4b9c-b92c-4f5bf8222cf1",
+        "Timestamp": "2025-10-23T10:07:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "4d598f2a-f9f7-4e09-bfd0-1e98ce0ba752",
+        "Timestamp": "2025-10-27T08:23:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "316d559e-9816-4b79-bdd5-91b9f929e6aa",
+        "Timestamp": "2025-10-30T18:24:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "6b289f0b-a763-44ac-ad9b-c3fddede6a5a",
+        "Timestamp": "2025-10-18T16:25:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "ac512411-e60a-4440-bddc-fb505c44dcb5",
+        "Timestamp": "2025-10-23T07:53:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "6e2f95ec-100d-4884-95d3-893ec3ca50e3",
+        "Timestamp": "2025-11-13T00:04:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "55304a6b-4ebf-4c7d-8a46-7987a6497468",
+        "Timestamp": "2025-10-21T09:31:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "63f44c86-731c-4f8d-9fbb-ca5835ace49e",
+        "Timestamp": "2025-11-12T23:14:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "b9f8065b-0f66-43a1-92f4-fd9ad47e78c3",
+        "Timestamp": "2025-10-18T23:26:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "b9a04663-2317-40c8-aba8-09fa22b906cd",
+        "Timestamp": "2025-11-10T09:29:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "a1027ba0-dfec-43da-93ff-7bbbccfca5a6",
+        "Timestamp": "2025-10-14T07:15:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "f7769fe8-b70c-441b-ba66-870ef78e5c5a",
+        "Timestamp": "2025-10-17T12:24:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "741f9276-ef7b-42a7-b2f9-69eb3805205f",
+        "Timestamp": "2025-10-16T13:20:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "115268f6-fc47-47bb-92a8-aca0a8d6016f",
+        "Timestamp": "2025-10-14T04:49:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Truck",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "48cda955-03fd-4ed1-a6a5-6f84ac9bdb17",
+        "Timestamp": "2025-11-11T17:04:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "49986c70-518f-4694-b862-380a3526bd76",
+        "Timestamp": "2025-10-28T10:07:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Truck",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "a09be13c-243d-4bae-bc85-288074f324ec",
+        "Timestamp": "2025-11-04T20:05:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "0420ed85-b2ce-4de4-ba34-ede7c193835d",
+        "Timestamp": "2025-10-24T19:12:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "9902428b-d434-4844-92c4-65286d8a81f7",
+        "Timestamp": "2025-10-25T05:41:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Truck",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "7f0e10b8-f43b-4de3-b898-425053a09dc6",
+        "Timestamp": "2025-11-09T05:11:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "13b2a12d-c5bd-4c43-b41f-d4152b5e87ff",
+        "Timestamp": "2025-10-18T11:40:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "0a359878-0f67-4c49-83ba-b524a7a2f74b",
+        "Timestamp": "2025-11-02T04:53:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "463194bd-9a8e-4547-b672-3e93d4cc1749",
+        "Timestamp": "2025-11-04T13:52:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "1b178852-a1c4-4ada-94c4-92f2ca120929",
+        "Timestamp": "2025-10-31T18:58:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "28f60135-ee00-434d-8236-7d6402ef083c",
+        "Timestamp": "2025-10-17T05:47:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "63a54e44-e78d-4b57-b0ef-9061df667014",
+        "Timestamp": "2025-11-12T12:08:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "01725b13-8603-41f1-ac1e-72be7060b159",
+        "Timestamp": "2025-10-20T03:43:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "7d55a2d8-cdfc-4424-acb8-cf7258bf31d8",
+        "Timestamp": "2025-11-06T20:28:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "aef9a54c-cb4b-4d57-bf66-7c14b8f15b8e",
+        "Timestamp": "2025-10-22T22:04:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "e1e42009-12b6-4f96-a921-c2801db8314d",
+        "Timestamp": "2025-10-31T13:47:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "195e6299-8e09-430e-b954-a5d304df7f79",
+        "Timestamp": "2025-10-14T19:55:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Truck",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "735910cb-5da0-4a1b-a433-3b635e1dc347",
+        "Timestamp": "2025-10-16T00:23:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "e07befdf-1d70-43fd-8679-05a01507fab2",
+        "Timestamp": "2025-11-13T15:48:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "a1595780-6580-4053-be32-f0b4a2487e0d",
+        "Timestamp": "2025-10-21T02:23:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "5e90c1c0-dd91-4ccf-a013-cc88d070cfcb",
+        "Timestamp": "2025-11-08T02:37:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "94155834-6ca5-4c50-8b5a-70224995f04c",
+        "Timestamp": "2025-11-06T19:45:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "3a94d832-ab4f-4c02-a6c5-b08b872cefc7",
+        "Timestamp": "2025-10-16T18:33:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "0e473646-fe93-4852-bec2-3106fc5bdc30",
+        "Timestamp": "2025-10-24T04:50:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "cdf39141-1a74-47c6-b7d9-61a385eb8364",
+        "Timestamp": "2025-11-10T15:18:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Bus",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "2b0b3297-aeab-458d-a6a7-8ec267a1c139",
+        "Timestamp": "2025-10-27T11:51:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Truck",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "78427b5f-07e9-41ec-8fa6-543948005e4d",
+        "Timestamp": "2025-10-25T05:05:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "2e7522d6-50aa-4d4d-8ad5-c44383aefc6c",
+        "Timestamp": "2025-10-23T13:32:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "5d30d17f-d246-48aa-baac-beb065a501f8",
+        "Timestamp": "2025-11-07T03:20:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Truck",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "1318eec7-37d4-4423-8187-e19b07b5be79",
+        "Timestamp": "2025-11-10T13:41:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "dbfc218f-0afa-4f4b-8366-95a8427b6bf3",
+        "Timestamp": "2025-10-21T08:39:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "18deaf1a-bbfd-4cd0-92fb-4191cc2020e4",
+        "Timestamp": "2025-10-23T11:00:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "2dd26c84-18e0-460c-85c7-e8219c1f5500",
+        "Timestamp": "2025-10-27T16:46:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "1be6a473-9236-4891-990a-12c6d5ce3c11",
+        "Timestamp": "2025-11-11T08:24:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "4b7116d9-d9ba-4b96-9fed-0cf012427985",
+        "Timestamp": "2025-10-16T22:26:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "1bd35040-c0f1-4410-b1de-7b717f55f3db",
+        "Timestamp": "2025-11-09T22:19:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Bus",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "19e23082-1d12-4a45-beb4-a3bbd3548527",
+        "Timestamp": "2025-11-08T16:39:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "435270d2-e47a-46a3-acd2-76e9ebe77909",
+        "Timestamp": "2025-11-03T00:44:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Truck",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "d31ed34f-be80-4ba0-a3bc-fb00cf1b7ac4",
+        "Timestamp": "2025-10-27T14:57:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "296750ef-e40c-471d-a0ea-cabb1ebbb670",
+        "Timestamp": "2025-10-27T07:30:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "a632a5b3-a84f-408f-a3ff-e3821deeccc9",
+        "Timestamp": "2025-10-17T14:04:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "5b1a29ac-5c49-4fbe-a7d4-bba1ac9c9429",
+        "Timestamp": "2025-11-06T05:57:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Bus",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "1e550b12-9bd2-446f-b991-3803b618ed8b",
+        "Timestamp": "2025-10-28T10:01:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "2a296339-bab1-4834-9497-b64f24f3912b",
+        "Timestamp": "2025-11-10T18:35:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "299a984c-e1c9-48ab-9401-867dd7c7dfd2",
+        "Timestamp": "2025-10-15T19:32:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "412f23c5-246b-4d18-a1eb-503604a4543d",
+        "Timestamp": "2025-10-26T15:48:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "ef44cb52-b55e-4ac8-9e18-fc57f1a7c701",
+        "Timestamp": "2025-10-25T12:23:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "75f7ef3d-cbc5-4a4c-8a5a-413b88cdde3d",
+        "Timestamp": "2025-10-26T09:04:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "75debe8d-b6e7-431d-b528-42c9b9c9176b",
+        "Timestamp": "2025-10-27T19:40:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "1a21ccec-d79e-46b5-9f2b-b2b30ee57d20",
+        "Timestamp": "2025-10-31T07:41:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "3aa717a1-2401-4ddc-9ee5-6a3e1dd7a488",
+        "Timestamp": "2025-10-26T10:53:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "5e60802f-bea9-4dc7-a2c2-7ce9adcfc55e",
+        "Timestamp": "2025-11-07T00:13:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Bus",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "3dcfceb2-ba50-4b02-a1dc-1e1cfcfe707a",
+        "Timestamp": "2025-11-09T15:27:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "24db7101-f5a5-4423-b669-b2a4d8d96da5",
+        "Timestamp": "2025-10-30T11:28:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "c3a08798-bdc6-4d5d-94a7-bd86e391144b",
+        "Timestamp": "2025-11-10T01:28:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "1b4db5b3-5e7b-4720-b266-242bf51a28ca",
+        "Timestamp": "2025-10-20T20:51:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "0578b2ea-4234-40c8-8c99-7eeb831a8677",
+        "Timestamp": "2025-11-12T22:51:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "17a3af85-8b62-482d-87b6-da9d581bcef3",
+        "Timestamp": "2025-10-18T05:28:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "d5151108-e9bb-4476-a8a0-76bed0046b08",
+        "Timestamp": "2025-10-19T10:38:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "f0b76ac1-a47a-414d-a9ee-7bb78963cee4",
+        "Timestamp": "2025-11-09T13:37:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "cd01d881-d0ea-4688-970f-9e77086e1721",
+        "Timestamp": "2025-11-03T06:11:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "cbb58b31-dd5a-4734-a9a9-154653d5608c",
+        "Timestamp": "2025-10-31T10:43:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "7f8aa52b-2fb7-4ef1-8e0b-980270def67b",
+        "Timestamp": "2025-11-07T03:21:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "aedf167c-7c8b-4f3f-ae63-77889600a03f",
+        "Timestamp": "2025-10-23T09:08:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "ed38b119-fddd-4d69-8be5-4efaa213a158",
+        "Timestamp": "2025-11-05T22:11:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "ba58950b-eedd-467a-81a8-79df28815a8c",
+        "Timestamp": "2025-11-04T04:14:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "2df09c82-e953-48d5-93c2-a5fdc52f7308",
+        "Timestamp": "2025-10-20T20:29:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "8bf8199a-f8df-4f7f-8e9e-ea3938a9049e",
+        "Timestamp": "2025-10-18T15:41:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "6ba425a6-c0ca-44b8-8e96-3b2d9257fcbe",
+        "Timestamp": "2025-11-07T02:30:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "4711f06a-5eb9-4696-a504-69784739645f",
+        "Timestamp": "2025-10-30T19:07:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "fb404697-530b-4763-b763-5153a174dc82",
+        "Timestamp": "2025-10-22T03:39:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "81722520-a32d-4462-a722-7c5cfcb198c7",
+        "Timestamp": "2025-11-01T15:11:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "ccb56ae4-71a4-498d-a8fe-ed1cfe8e726d",
+        "Timestamp": "2025-11-05T03:06:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "2ae6737d-bdd5-4b7d-b7ac-615b179cef26",
+        "Timestamp": "2025-11-11T02:52:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "c8c1957b-8a8e-4eb5-b2db-eff16bb1a972",
+        "Timestamp": "2025-11-09T13:50:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "82accb02-e90a-414e-8b21-7e8ebecb18d5",
+        "Timestamp": "2025-11-08T03:11:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Truck",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "2e60e881-2195-4b64-9d48-bc7b4aaa794e",
+        "Timestamp": "2025-10-21T00:01:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "b71200bd-bea0-437e-8a30-8d81b6b566ed",
+        "Timestamp": "2025-10-24T10:20:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "82ef9934-fe7a-4f61-84f4-cee815d9307d",
+        "Timestamp": "2025-11-03T00:41:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Truck",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "26fbb166-9009-449c-9c73-529144e4f768",
+        "Timestamp": "2025-11-03T07:10:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "bf71bcb7-a4a6-4ddf-b2a6-d3dfd80e0129",
+        "Timestamp": "2025-10-18T21:36:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "183f6e03-f011-48be-9bf3-43a4386c18de",
+        "Timestamp": "2025-11-01T16:49:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "fa1449e1-3d39-463a-aa3a-7c76915249bb",
+        "Timestamp": "2025-10-19T22:56:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "c1348107-f34b-4ea8-b0bb-6357ae1e767f",
+        "Timestamp": "2025-11-03T15:46:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "f5241aa1-185c-419c-a76f-abcb160fbfac",
+        "Timestamp": "2025-10-27T02:21:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "b0940b13-6159-4f76-a4c6-d77127a756a7",
+        "Timestamp": "2025-11-07T16:05:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "6eda2207-ff27-4815-a089-43eac42be6df",
+        "Timestamp": "2025-10-22T23:15:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Bus",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "145b63f4-58d5-4e5e-9c15-3f80347f1677",
+        "Timestamp": "2025-10-22T19:01:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "ea8ad41b-4508-4da9-b92e-ecfe4bf7f1d8",
+        "Timestamp": "2025-11-05T08:03:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "76c15715-97c7-40b3-b6b5-67d96095e74e",
+        "Timestamp": "2025-11-03T10:09:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "083320d6-c993-4f39-8179-6de39ef924d1",
+        "Timestamp": "2025-10-22T09:07:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "9f760d28-f515-4842-a228-a23408425aa6",
+        "Timestamp": "2025-11-04T08:57:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "b0573a3a-4b17-4467-b6aa-b6ceee74cf5b",
+        "Timestamp": "2025-10-17T04:38:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Bus",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "42bb5dc9-6b6c-48c0-b4ca-68e415ce914f",
+        "Timestamp": "2025-10-16T13:11:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "a297fffb-32a9-404a-b543-7ac9be985084",
+        "Timestamp": "2025-11-05T14:13:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "6f18d800-1065-45ee-a7c2-78c1d1e8f540",
+        "Timestamp": "2025-10-14T19:35:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "8535fcb2-1fb0-473c-91e4-c88deb24a885",
+        "Timestamp": "2025-11-02T00:55:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Truck",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "85a7b196-2e2b-40d9-a07d-02ed4a086455",
+        "Timestamp": "2025-11-01T06:16:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "3dee0346-8b76-4910-a73b-4df591408fe5",
+        "Timestamp": "2025-10-14T11:36:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "2d3c676c-13ca-4365-aea2-bc13e42320fd",
+        "Timestamp": "2025-10-20T07:59:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "c9d5a997-dfd6-4042-8d86-4427cb140eee",
+        "Timestamp": "2025-10-30T11:09:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "f6e5a878-5c12-4241-abed-9c92d30fdf14",
+        "Timestamp": "2025-10-17T02:06:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "7eb517ee-0fba-427c-be47-fba0883b54a1",
+        "Timestamp": "2025-10-26T00:59:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "0248c296-679d-41f2-8584-8172ba7c0bda",
+        "Timestamp": "2025-11-06T17:35:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "f9222f6a-5234-4adf-9beb-5aef1ec00bf8",
+        "Timestamp": "2025-11-12T18:52:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "4fb4272f-5962-4cc0-97e4-e67b6bd0b912",
+        "Timestamp": "2025-10-20T19:00:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "b8391df9-b9c2-4d57-a43a-ab1eae33b0a9",
+        "Timestamp": "2025-11-07T05:11:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "77ebe1bc-94d9-4155-a66f-ad9e7f76c683",
+        "Timestamp": "2025-11-08T08:17:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "823e1a2d-c6c2-487a-a0fa-6511435ac992",
+        "Timestamp": "2025-11-04T16:20:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "97f5f7a3-66e7-4b73-977c-54e1543ef78d",
+        "Timestamp": "2025-11-07T20:47:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "60b52a11-6463-45ee-9f60-b6129a37dfc7",
+        "Timestamp": "2025-11-10T19:27:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "74b36cae-bc78-4db1-8120-0e8de14a2003",
+        "Timestamp": "2025-10-20T21:44:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "2dfb043b-7432-4a15-b5a4-7aec1dff4fae",
+        "Timestamp": "2025-10-28T20:24:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "d1696fb7-266d-4d91-bdbd-c731e2369e16",
+        "Timestamp": "2025-10-21T07:40:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "79910d8e-375a-4732-8936-564cf6f10430",
+        "Timestamp": "2025-10-24T19:32:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "b26074d5-b8cd-4e32-b7be-6b5a83205dbc",
+        "Timestamp": "2025-10-15T02:04:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "70f380cf-44c8-48f1-9ff1-78dfbb67b447",
+        "Timestamp": "2025-10-15T14:51:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "db4a5b5d-d727-48f5-9b96-9aa30ec2d389",
+        "Timestamp": "2025-11-03T17:14:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Bus",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "494835e8-3d03-461a-b0e2-981333073091",
+        "Timestamp": "2025-11-09T18:07:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "a4bc2d11-8e24-4c6a-b18f-47a986b5dd42",
+        "Timestamp": "2025-11-08T03:52:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "cd23e89d-eda9-4f29-9011-b8e3c225b029",
+        "Timestamp": "2025-11-04T05:48:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "52b8dccd-992b-4e57-bdbb-fff2baa4f9f6",
+        "Timestamp": "2025-10-30T16:30:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Bus",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "1407852d-514a-41f2-8965-d2e666d73274",
+        "Timestamp": "2025-11-11T09:52:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "ff034f68-feb2-4452-81b5-4440cbf52b98",
+        "Timestamp": "2025-11-05T20:14:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "815c9372-e7cd-4c4c-ae52-7e048231794d",
+        "Timestamp": "2025-10-29T10:41:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Truck",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "f4c26fea-d6e2-47fc-800b-f3bb645977d1",
+        "Timestamp": "2025-11-02T08:09:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "a51f7e85-5dd8-45d5-905e-2730ca4401f8",
+        "Timestamp": "2025-10-22T01:25:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Truck",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "9624febf-6086-45a0-b87f-30affc873a02",
+        "Timestamp": "2025-11-09T11:32:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Truck",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "470d753b-ca55-4731-963d-1b431089dd39",
+        "Timestamp": "2025-11-04T11:22:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "27b29be9-53d1-46f2-afaa-835a2c028b9b",
+        "Timestamp": "2025-10-27T05:51:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "1cf64f06-1883-4e90-b17a-827d4bbcc499",
+        "Timestamp": "2025-11-09T09:47:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "781cd21e-01c9-4642-b1a8-a75caefc2212",
+        "Timestamp": "2025-11-07T11:58:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "ea3ac434-ec81-4634-82ae-be45686cf265",
+        "Timestamp": "2025-10-26T00:13:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "7746e144-a1f1-4cfb-b4a8-efe3dd0726c1",
+        "Timestamp": "2025-10-21T06:01:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Truck",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "484e1cdf-21ea-42c3-9063-8055af9e6d06",
+        "Timestamp": "2025-10-15T14:24:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "68446bbf-fbe9-4164-8145-85d167793f66",
+        "Timestamp": "2025-11-03T13:30:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "c6385913-7f92-490d-aef9-87728b90b606",
+        "Timestamp": "2025-10-30T14:58:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "5867e0bd-7778-4d23-84f1-bed25b01a403",
+        "Timestamp": "2025-10-24T08:40:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "df94af4c-58e0-4205-a399-11d1e36e4efe",
+        "Timestamp": "2025-10-23T01:48:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "79dbbf1e-231c-4431-ab97-214e55187669",
+        "Timestamp": "2025-10-20T01:37:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "5ede42cd-6037-4efe-b1d9-fe943192e6d1",
+        "Timestamp": "2025-10-15T23:39:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "c151569d-02ee-4a9a-ba26-877a616802cb",
+        "Timestamp": "2025-10-23T15:50:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "6fb63038-62bd-4adb-bfa0-2543da22cc09",
+        "Timestamp": "2025-11-01T04:21:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "46ebb3b7-4783-41ec-a779-567194404f5b",
+        "Timestamp": "2025-11-09T15:19:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "5d9338c9-5f09-4618-b032-72ce2e1ebdf0",
+        "Timestamp": "2025-11-10T18:57:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "940602bf-af9c-48f3-9bd3-82e946eeeba0",
+        "Timestamp": "2025-10-26T07:32:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "20a9360f-983c-4fd3-bf61-89977e21b552",
+        "Timestamp": "2025-10-26T16:49:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "44640778-3ca7-42dc-8165-f9b0ab1300d4",
+        "Timestamp": "2025-11-07T23:52:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "4c083d50-e98e-4980-bf6e-d529345a67d5",
+        "Timestamp": "2025-10-26T15:02:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "ff3d4721-3339-46f4-86e4-dc5f90940d1a",
+        "Timestamp": "2025-11-13T03:34:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "606aa15d-0a48-40ef-b93b-932b48fc0706",
+        "Timestamp": "2025-10-20T08:19:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "0315906a-e67a-452e-88ee-3f9e0e00431f",
+        "Timestamp": "2025-10-21T05:52:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "8151afd0-206f-43f0-92fa-e944ce94e868",
+        "Timestamp": "2025-10-28T06:35:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "dd34e15c-4bec-4f5b-8db9-eabb6e3c3e6b",
+        "Timestamp": "2025-10-28T08:35:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "99129782-72c0-4ea9-8513-6824d7c33031",
+        "Timestamp": "2025-11-04T20:06:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "2e8e12ec-b809-4640-b3a4-01b2bc135a5d",
+        "Timestamp": "2025-10-15T12:05:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "72547d36-e79e-4de3-9cb7-b20666ecf380",
+        "Timestamp": "2025-10-14T09:20:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Truck",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "24ba8ce5-3d65-4418-84c8-74d55cfa9e4d",
+        "Timestamp": "2025-11-12T10:47:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "c9b433fe-7270-4f54-84e8-33dd44da9383",
+        "Timestamp": "2025-11-04T12:57:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "abd4cebf-dbef-461a-b7f1-ccac56860b81",
+        "Timestamp": "2025-10-22T21:41:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "0eb71db5-ab86-405d-b399-8f072768f6e7",
+        "Timestamp": "2025-10-26T23:32:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "9deee807-11b0-4f77-92fc-a1a7cc13535d",
+        "Timestamp": "2025-10-24T07:51:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "cc84e5ed-0a6f-489c-9665-60b79b1ac2c7",
+        "Timestamp": "2025-10-20T03:28:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "03f7730e-5824-42a8-b455-e1e7338005fa",
+        "Timestamp": "2025-10-28T04:10:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "77bb3654-9f02-43b6-a43e-49698a22b94a",
+        "Timestamp": "2025-11-02T01:49:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "14a484a6-01a2-402f-80bc-970a474f6c30",
+        "Timestamp": "2025-10-17T17:49:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "cbb7288a-bd88-4300-85e6-be94fd8ed0cb",
+        "Timestamp": "2025-10-18T09:13:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "afdb19d8-0154-419b-bd32-df5c1f1dbd4f",
+        "Timestamp": "2025-11-12T23:57:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "d07b7428-614a-4cc3-b7e8-5b3461340938",
+        "Timestamp": "2025-10-18T01:12:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "d91f3e05-6b40-4f64-8a4a-d807560702a5",
+        "Timestamp": "2025-10-30T07:41:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "da36a439-c8fd-44ee-8400-003ed7f2a2b1",
+        "Timestamp": "2025-10-29T12:36:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "161b999b-67c3-4b71-83f8-79eec2c69fce",
+        "Timestamp": "2025-10-22T00:46:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "98a1088d-4d6a-43b1-8726-90d9ebcf368e",
+        "Timestamp": "2025-10-22T20:17:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "3ee220d3-48e9-4eb7-8fe1-36395aeb90a4",
+        "Timestamp": "2025-10-30T12:58:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "5ea2102e-5b17-4d43-a99c-a336b79788d6",
+        "Timestamp": "2025-10-27T00:24:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "ca7f908b-ed47-4727-b43e-aa136e13b3c9",
+        "Timestamp": "2025-11-11T19:12:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "3208a642-3d83-4f8e-a9b3-6b69f70ff1b6",
+        "Timestamp": "2025-10-16T20:05:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "c0e1a801-8f3b-4aa2-961b-41fc9f86b4b5",
+        "Timestamp": "2025-11-03T16:11:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "62fda5fb-2cd3-4eed-a846-9dc0a02dd68e",
+        "Timestamp": "2025-11-04T09:41:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "d03658de-e008-45a4-8a25-81d13b96ce58",
+        "Timestamp": "2025-10-22T05:07:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "a94a616b-c475-4330-ac2f-57718ac18af1",
+        "Timestamp": "2025-10-15T16:22:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "6218f2bb-ac8c-4549-86cf-be18fbee2351",
+        "Timestamp": "2025-10-23T13:39:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "07678b36-b0a6-4d07-8ed6-895b91151c4e",
+        "Timestamp": "2025-11-11T00:57:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "88b8e071-8650-4804-a4cb-6d530f43e81d",
+        "Timestamp": "2025-10-17T09:17:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Bus",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "a71bf20c-81ea-45cc-b87e-139b32d7433b",
+        "Timestamp": "2025-10-29T18:09:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "07c3fcbd-4601-41b9-a489-1f061ac8e336",
+        "Timestamp": "2025-10-14T08:00:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "ccbfca40-8eae-4cfc-88e5-73f873f0194d",
+        "Timestamp": "2025-10-16T12:05:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "23a4f36a-6f8f-41af-a800-440883a438ca",
+        "Timestamp": "2025-11-01T16:44:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "98eb9721-3ff1-43c9-8208-092bb6c7f367",
+        "Timestamp": "2025-11-04T07:46:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "ead05a9d-5934-4b1a-b389-206e66e33c47",
+        "Timestamp": "2025-11-12T22:12:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "c4c35331-11ab-4a71-8527-4ea76cc9ebec",
+        "Timestamp": "2025-11-13T16:48:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "0e429976-4ee9-48f0-8239-39e971153839",
+        "Timestamp": "2025-10-22T15:37:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "7adbb4eb-6ca1-4346-bd09-d8b5cc20b2fa",
+        "Timestamp": "2025-11-02T11:07:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "ad354d33-e1e3-4004-a52d-c7b8beea9875",
+        "Timestamp": "2025-11-11T13:04:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "74011902-3f86-4d72-9dac-06d213a5cf72",
+        "Timestamp": "2025-11-04T17:02:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Bus",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "55bbf932-89a4-457a-a701-5c10b7a06d79",
+        "Timestamp": "2025-10-17T19:57:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "33b4613d-c5af-4c85-82bf-598197e91763",
+        "Timestamp": "2025-10-17T20:23:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "178b9adb-78fd-494f-af9f-68f5634138fe",
+        "Timestamp": "2025-10-20T16:12:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "7388b47c-bc46-4daa-8f16-280ec9cb1dc9",
+        "Timestamp": "2025-11-08T03:29:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "7d4d3b19-97b5-4016-9189-6289e884b7fc",
+        "Timestamp": "2025-10-26T10:59:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "7c460586-4cd3-422b-b2a2-9dfa4d74e4f6",
+        "Timestamp": "2025-11-05T03:45:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "5da62b6d-6e1e-4486-86a3-d5f739bc139c",
+        "Timestamp": "2025-11-13T01:41:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "b030c643-db88-40af-94f3-f908ca0eeb54",
+        "Timestamp": "2025-10-26T06:36:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "e2d25d27-ad59-4fbb-bd39-dd31d6907eb4",
+        "Timestamp": "2025-10-26T12:52:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Bus",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "900fbe62-9590-4421-aeb2-b33cfeb95219",
+        "Timestamp": "2025-10-30T14:54:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "94d19384-8331-4b3b-acc8-3cf3285b4212",
+        "Timestamp": "2025-11-13T05:13:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Truck",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "3c986ad3-ca36-40aa-b825-37e5ae85ae9c",
+        "Timestamp": "2025-10-23T23:59:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "8a5601f5-e34e-4f44-9824-13d912fd811f",
+        "Timestamp": "2025-10-28T05:19:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "f6492bf9-b5bd-4dac-a5bf-9752ac4c0876",
+        "Timestamp": "2025-11-02T19:57:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "5b1efada-31db-4962-98c7-0af5305a4af8",
+        "Timestamp": "2025-10-24T05:22:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "93de352c-9c53-458f-aa39-c303261ef5ae",
+        "Timestamp": "2025-10-17T05:18:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "f5c063e9-07a5-446b-983d-49bf8b40c192",
+        "Timestamp": "2025-11-13T10:18:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "459dcb66-aaa2-43a0-8689-0142b47a6d47",
+        "Timestamp": "2025-10-29T20:24:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "75ed074b-15ef-4435-a47f-da760b11c9cf",
+        "Timestamp": "2025-11-04T23:43:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "a0711caa-a0d9-4410-a921-306e09827c84",
+        "Timestamp": "2025-10-16T03:06:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "c2897c95-0c4a-4e9a-bb91-5730297e5796",
+        "Timestamp": "2025-11-11T06:15:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "df3b53e8-9328-4eea-a596-5cae0ea09066",
+        "Timestamp": "2025-11-01T13:46:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "9621b8aa-7633-4391-ab71-08ecfb1b4801",
+        "Timestamp": "2025-11-12T17:47:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "50b96c50-c5cb-48f6-9974-d35ec3af5b61",
+        "Timestamp": "2025-10-25T23:09:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "f19da043-026f-4044-bfb3-931e017f7d69",
+        "Timestamp": "2025-10-15T22:14:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "0f606983-524c-430f-9956-b38d9a30c165",
+        "Timestamp": "2025-10-14T18:19:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "78e962d3-4514-46e0-91f1-cbaefe0a95fa",
+        "Timestamp": "2025-11-13T01:22:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "7596fc91-2a6d-43fd-82a3-f0083aa0ce0e",
+        "Timestamp": "2025-10-16T02:13:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "7f089559-f5b8-444c-847e-609264942756",
+        "Timestamp": "2025-10-28T04:36:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "0bd48c9b-b134-4a29-9488-eb272ea6a101",
+        "Timestamp": "2025-11-07T10:49:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "84d5b969-f9d2-4a64-b1c6-8baf36c1b24b",
+        "Timestamp": "2025-10-22T03:30:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "5038e0f7-d83a-43b4-a33e-0be60fe4e05a",
+        "Timestamp": "2025-11-05T13:26:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "6217b800-1c81-4d8a-a7ce-f4bbf862862d",
+        "Timestamp": "2025-11-05T22:35:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "ab2b6303-8f2d-4d8e-8f9b-0e4dfe93007c",
+        "Timestamp": "2025-10-25T08:56:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "710ace77-529b-4347-9943-ab041f215441",
+        "Timestamp": "2025-10-28T18:03:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "4dc96f5b-e5cc-47eb-a7e4-45677b0c4586",
+        "Timestamp": "2025-11-02T06:53:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "c9648924-d37c-43c6-bcdc-2c1b2e0644d1",
+        "Timestamp": "2025-10-28T19:27:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "e1b22727-4f48-4216-988c-8518117b3a5f",
+        "Timestamp": "2025-10-19T10:24:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "6a2992e6-533b-4646-b1a0-0d52b80dcb23",
+        "Timestamp": "2025-10-31T09:51:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "6ae8b411-7da9-4bc8-91ed-e25958350ace",
+        "Timestamp": "2025-11-06T12:17:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Truck",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "96b39a4b-192b-4048-b95f-2b2961c3e209",
+        "Timestamp": "2025-11-12T19:10:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "cbd327bc-cd35-4884-a5e1-0a4bdc7481c9",
+        "Timestamp": "2025-11-02T21:59:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "0b65a359-ccdb-4956-82b2-5a595daaf403",
+        "Timestamp": "2025-10-17T15:53:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "e1664556-1f14-4bb6-8355-3d920a009d73",
+        "Timestamp": "2025-10-23T23:57:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "d4dad2d3-2af9-46aa-8064-600241a05433",
+        "Timestamp": "2025-11-13T02:27:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "c455cfa2-746d-4eeb-af99-7a75c7bcdb92",
+        "Timestamp": "2025-11-03T23:55:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "9a99ed80-f2ca-4078-93d9-fb47305c3550",
+        "Timestamp": "2025-10-23T17:08:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "50c89772-9220-4229-9123-54fda1224f30",
+        "Timestamp": "2025-11-06T11:36:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Truck",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "0b2286cf-db48-4bd2-8543-9a1a5e2a49d4",
+        "Timestamp": "2025-11-11T19:29:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "7013119b-f5cc-4885-a3f5-29d971160d88",
+        "Timestamp": "2025-10-21T20:06:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "b2488a4e-e3fd-4b9d-8236-a08ccfd7c91a",
+        "Timestamp": "2025-10-29T06:31:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "dd345950-4c1b-4eab-bc17-01cc29883b36",
+        "Timestamp": "2025-10-24T16:45:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "4fc05e83-e2b2-462d-bf83-60a9829135be",
+        "Timestamp": "2025-10-21T07:59:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "0a99c346-076e-40b7-ae90-e45d123c9577",
+        "Timestamp": "2025-10-14T15:02:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "d63a8358-7764-4852-a9a7-5079fafe7580",
+        "Timestamp": "2025-10-16T01:31:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "cf8cf445-ecef-448a-a615-6d05f49e4047",
+        "Timestamp": "2025-10-24T21:05:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Bus",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "b5359119-a957-4954-ad4e-026fc49bd74f",
+        "Timestamp": "2025-11-01T02:25:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "8287d4aa-c625-447c-91cc-7963371c95d9",
+        "Timestamp": "2025-10-18T10:54:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "c9752a44-ac89-4021-a999-3f7bc485e7e8",
+        "Timestamp": "2025-11-07T19:08:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "c20737a8-34fc-4258-a38a-b07b7b6aadfe",
+        "Timestamp": "2025-10-22T05:06:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "566f95ff-3394-4542-a61c-bd15d1d24a82",
+        "Timestamp": "2025-10-20T02:34:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Truck",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "86ddbab3-a29a-40d8-b39b-ca210024b362",
+        "Timestamp": "2025-11-11T09:38:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "51afc441-659d-465f-af1c-2909abe9527e",
+        "Timestamp": "2025-11-05T18:48:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "84d610c8-ce44-485d-b386-d82d2800b226",
+        "Timestamp": "2025-10-28T18:10:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "620bb16e-045a-4609-b584-1b579e245991",
+        "Timestamp": "2025-10-29T08:01:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "9548255c-7ef3-4aa3-a837-e7edbf23b25f",
+        "Timestamp": "2025-10-18T14:15:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "6dd97446-7b2f-4a4b-ac24-c9377e165022",
+        "Timestamp": "2025-11-08T19:23:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "c90a3a19-dff0-4373-ab9c-08114a224740",
+        "Timestamp": "2025-11-11T12:23:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "7921e4c7-54e0-4e02-a8da-2ce6b9d75c11",
+        "Timestamp": "2025-11-02T05:08:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "a36669bc-ed7f-4e62-9629-c25a39afe09c",
+        "Timestamp": "2025-10-21T04:59:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "868c38bc-a80a-4d32-8c6e-8897c6d2b20e",
+        "Timestamp": "2025-11-10T04:39:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "b10518a1-2364-45f3-8818-b13df4d609d1",
+        "Timestamp": "2025-11-11T16:48:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "3213f8b6-1627-4bcb-9b15-d211b9ea19a5",
+        "Timestamp": "2025-10-31T15:12:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "e343fef7-bac9-4690-be40-5f099fd2487d",
+        "Timestamp": "2025-10-22T01:48:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "fee7e18c-1c93-4d99-a8d6-4a2ea1ba4868",
+        "Timestamp": "2025-10-21T00:43:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "1ce9fce4-c416-4101-9817-81ed30e3fb0f",
+        "Timestamp": "2025-11-11T22:50:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "befc7ef5-b043-440c-8ba2-817577e0f134",
+        "Timestamp": "2025-10-23T22:15:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "3e485935-87c4-468b-b7ae-43d42b183a12",
+        "Timestamp": "2025-11-10T14:41:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "5f1d0b65-967b-4b01-871d-c8643b895485",
+        "Timestamp": "2025-10-24T05:59:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "a914cd8a-2f11-4ab8-9482-1e49a26f351c",
+        "Timestamp": "2025-10-22T12:27:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "33c89adc-02f9-4a8e-b153-bb8eb7451ec3",
+        "Timestamp": "2025-10-27T17:37:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "b439be79-1576-4d57-aa94-c69ae5f06507",
+        "Timestamp": "2025-10-30T20:45:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "d2873ec4-b186-4538-b565-e23c5953409c",
+        "Timestamp": "2025-10-14T07:08:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "bb021d07-09ac-43d5-b085-a77702311204",
+        "Timestamp": "2025-10-21T10:41:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "53a08e5f-5214-4420-b31b-6861db3e89f8",
+        "Timestamp": "2025-10-28T18:40:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "20d226f4-8a9f-4b9a-9517-52cb976dcf18",
+        "Timestamp": "2025-10-21T15:34:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "f6bde75e-d9f8-409a-abc1-223532e2e89f",
+        "Timestamp": "2025-10-31T17:40:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "a1bb2b5a-bdb1-4cb3-a2e5-5f36f457cff0",
+        "Timestamp": "2025-10-31T16:52:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "6787dfa2-2a58-4394-9d26-240dd77b9784",
+        "Timestamp": "2025-11-06T23:21:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "8834ef49-c1ea-4f78-89ca-4a00978c5cbd",
+        "Timestamp": "2025-10-31T23:19:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "33befb67-eade-4242-9007-e963ba0741ff",
+        "Timestamp": "2025-10-15T18:59:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Bus",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "61278965-6701-42f5-82a3-6f59973873f5",
+        "Timestamp": "2025-11-06T02:45:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "974ec154-e4a9-4a50-ba4c-2d052b58bdae",
+        "Timestamp": "2025-10-21T18:59:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "8bf1f666-9b66-4bdd-bcc4-808742f9f59b",
+        "Timestamp": "2025-10-20T22:22:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "67ad5641-fe1a-47c2-b151-b7733e7acb19",
+        "Timestamp": "2025-10-27T03:40:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "12446bb8-5407-47ba-af80-73a33eb643ac",
+        "Timestamp": "2025-10-20T14:12:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "7d32a8fb-96ae-4e3b-89bb-1403715b6df7",
+        "Timestamp": "2025-10-15T06:32:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "aba225c0-40d2-439d-a018-dee0d6089556",
+        "Timestamp": "2025-11-12T04:26:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "fafbd776-660d-49c7-bf15-93b0f838994b",
+        "Timestamp": "2025-10-21T00:16:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "94b99f76-05c4-4c2e-a7c1-0bc9762c9f94",
+        "Timestamp": "2025-11-12T05:30:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "a5a56706-1567-4688-bc57-5c51b1bcfe25",
+        "Timestamp": "2025-10-22T12:43:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "99585617-380a-4fb8-bd78-9c1baa5825c9",
+        "Timestamp": "2025-10-21T21:38:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "e6c381d8-2652-4784-b32f-ae7b7d4de431",
+        "Timestamp": "2025-10-15T09:16:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Bus",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "74c698c4-db57-4a0b-9ded-c2ed5604f96d",
+        "Timestamp": "2025-11-11T21:24:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "4d22471a-45e7-42f3-a840-60b29dd68548",
+        "Timestamp": "2025-11-11T19:11:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "9ecd349a-1d7d-4c66-a6f7-aced1b868473",
+        "Timestamp": "2025-10-30T08:53:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "e5d8abad-308c-4735-986c-ac2fe02c5a05",
+        "Timestamp": "2025-10-26T16:17:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "43f45105-f834-4467-8325-3359acca81b5",
+        "Timestamp": "2025-11-07T15:02:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "b96ce829-d388-4a31-b274-08b0ff53eff0",
+        "Timestamp": "2025-10-21T18:56:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "662dc132-1c69-4142-937f-6e3355f3ade0",
+        "Timestamp": "2025-11-04T02:08:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "1f9c1eca-a587-4a68-947b-164c50f243a9",
+        "Timestamp": "2025-10-23T22:54:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "7c3a60cf-0188-46f2-b7c2-3c81b481aedc",
+        "Timestamp": "2025-11-01T02:33:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "4be1ca24-512a-4a07-be55-0d92301e2fd9",
+        "Timestamp": "2025-10-19T19:39:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "a89b6ef0-a75f-443c-9b32-2d0ab733b076",
+        "Timestamp": "2025-10-30T01:14:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "ccc3928a-46fa-499e-a285-821394caa1e8",
+        "Timestamp": "2025-10-29T11:49:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "594c9f9e-0d44-4eb2-b230-4f06ba10e884",
+        "Timestamp": "2025-10-22T05:45:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "984d1651-c69c-488b-9f43-c0ea395b41a4",
+        "Timestamp": "2025-10-15T06:49:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "71171ad9-6ef4-4069-b80c-83827c5c3116",
+        "Timestamp": "2025-10-31T17:56:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "3ebd8ba5-de6d-4f18-9f8c-888de3616b05",
+        "Timestamp": "2025-10-22T19:55:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "bd08a3f7-925c-4301-9fbf-36ebd4828f2f",
+        "Timestamp": "2025-10-30T14:37:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Bus",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "f400e86c-3f89-4b25-b10a-19974eb2a029",
+        "Timestamp": "2025-11-13T13:56:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "e33e5f84-0514-4766-ab18-f2b1d159a56d",
+        "Timestamp": "2025-10-27T15:42:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "ca2209a8-49f5-484a-aa42-1c35cf977920",
+        "Timestamp": "2025-10-15T10:17:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Bus",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "a491ccf5-77c3-4db0-b5cb-86370cf80737",
+        "Timestamp": "2025-10-14T08:59:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "c738c26b-d09d-4319-a710-136bcc6f5f2e",
+        "Timestamp": "2025-10-23T08:25:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "14d6ddd9-17df-45df-9321-453e8d0779ac",
+        "Timestamp": "2025-10-16T05:16:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "267cdaa1-d84a-4032-a7bc-263250cdf1ac",
+        "Timestamp": "2025-10-22T20:29:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "15a9e5e9-7838-4b38-ae9f-7dfb5b073c2f",
+        "Timestamp": "2025-11-12T03:28:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "7cfa71d7-dc32-42f5-9494-b8d1e5795df4",
+        "Timestamp": "2025-11-07T07:20:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "98784397-760f-47ba-b1ed-791c1c702f79",
+        "Timestamp": "2025-10-22T23:00:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "8ec7ad55-d244-4fc1-98d9-89a84374af8b",
+        "Timestamp": "2025-10-19T12:50:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "bbee87bb-550d-4158-b0f4-29b2209f8ab6",
+        "Timestamp": "2025-11-03T02:45:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "15d3301a-3f2a-463c-88cf-1e60e77cdb1a",
+        "Timestamp": "2025-11-12T22:07:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "610d3d30-2499-45d6-8bce-a00736d1f172",
+        "Timestamp": "2025-10-17T01:49:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "e4eeba7f-d337-45e7-9a36-8dd61fda1f5b",
+        "Timestamp": "2025-11-01T10:35:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "781bf6dd-9b9d-4723-a6c3-86d245ea8d03",
+        "Timestamp": "2025-10-30T10:19:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "ae1b8f81-81e1-4f5a-8eb8-72d92d12ba12",
+        "Timestamp": "2025-10-30T19:55:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Bus",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "656c6f2c-210e-4120-80b3-f869db87a23f",
+        "Timestamp": "2025-11-01T13:17:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "3dfefa3d-ca6f-435f-b0cd-87ca85a24733",
+        "Timestamp": "2025-10-28T14:16:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "03ad2807-03b6-4c0d-b46a-837185773d53",
+        "Timestamp": "2025-10-22T03:54:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "16ccc36e-9f11-40c3-a1c7-1a9b918dd7e5",
+        "Timestamp": "2025-11-13T04:16:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "df93f6d9-b72b-4e4c-824d-3219a4568302",
+        "Timestamp": "2025-10-31T10:07:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "d403bcf4-f3c7-469d-8614-a2832543166a",
+        "Timestamp": "2025-10-23T17:52:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "603334b8-0d2a-48ac-80aa-934ab76f4e0d",
+        "Timestamp": "2025-11-07T07:39:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "9da0c3d0-560c-4b5f-8b7f-40deae0aa60a",
+        "Timestamp": "2025-10-21T22:55:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "2db9e51b-3f6e-4c40-be32-8584a5320ade",
+        "Timestamp": "2025-10-16T15:03:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "f0b3b92c-d0b7-40d9-9e02-63c7eab47913",
+        "Timestamp": "2025-10-19T20:15:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "4c19b4f4-c3b0-4702-96b0-9afae2380ab3",
+        "Timestamp": "2025-11-10T20:06:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "26f293de-bcd8-410d-bb8b-d2da435b046d",
+        "Timestamp": "2025-10-29T13:00:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "0cc1caba-c97c-4866-aea3-376b8708b4e6",
+        "Timestamp": "2025-11-07T01:19:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "52a96caa-44a6-4213-8701-34500dbed2a5",
+        "Timestamp": "2025-11-05T21:53:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "fe0d6f98-b904-41bc-a9b5-37f9ec1189a3",
+        "Timestamp": "2025-10-24T22:18:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Bus",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "aeef190b-9a9e-4165-a6e0-b521cc49df85",
+        "Timestamp": "2025-10-29T10:41:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "5c2b7045-6e2b-4a59-84a0-459ba620222d",
+        "Timestamp": "2025-10-26T15:17:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "263dd194-20b9-4bba-b77a-ebc86e84e31c",
+        "Timestamp": "2025-10-19T08:54:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "b0e1b9d3-4315-4454-9dec-fdcdb3ddf287",
+        "Timestamp": "2025-10-17T08:26:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "d2959102-f99c-4dd9-bdec-960e03de214c",
+        "Timestamp": "2025-11-13T08:11:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "896019b9-70f6-419b-be7f-4e3e834d7f96",
+        "Timestamp": "2025-11-03T11:38:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "c3ea84d8-0ae3-4b82-9fd6-6b563d1944ce",
+        "Timestamp": "2025-10-18T01:59:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "e461b043-0de0-454d-aa00-fa63008ea426",
+        "Timestamp": "2025-10-24T02:45:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Truck",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "abd37ffb-e650-43b7-bdaf-82771f0d264d",
+        "Timestamp": "2025-10-24T08:42:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "8f311cad-a2ea-4ed7-817f-f769578fd73c",
+        "Timestamp": "2025-10-27T20:41:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "4b4cb011-dffb-4ca8-95ee-ef743c204383",
+        "Timestamp": "2025-11-10T00:25:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "bc2f8e80-daa3-456a-af30-c99862bb0c3d",
+        "Timestamp": "2025-10-14T12:40:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "abe8a6b5-5778-4dc0-81f6-fdc09a7eab55",
+        "Timestamp": "2025-10-15T17:35:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "8b7a4237-1eea-40c9-b533-eab0cb22d1b6",
+        "Timestamp": "2025-11-02T07:10:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "c8186e77-50fe-4de2-8527-f41ebacaf439",
+        "Timestamp": "2025-11-04T04:05:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "9856c21a-1c1d-4c4b-868c-6cf7db3daeef",
+        "Timestamp": "2025-10-27T06:32:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "e44d4257-f535-42dc-b1b0-a662023e5eed",
+        "Timestamp": "2025-11-10T04:18:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Motorcycle",
+        "Severity": "2",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "fdb8f491-1d8e-4b32-8617-8bceb29b98c1",
+        "Timestamp": "2025-11-12T20:03:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "9db04ea1-9c40-4d4d-97d4-6cad0c66a77b",
+        "Timestamp": "2025-11-05T16:04:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "ce2029c8-ecdd-42d9-b41b-3f228ae49496",
+        "Timestamp": "2025-10-27T13:45:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "8d571a00-01c5-4cbb-8755-31f87f787561",
+        "Timestamp": "2025-10-20T17:39:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "6f7dc4ac-036b-47b8-acda-d6becafe3256",
+        "Timestamp": "2025-10-31T23:16:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "b485f851-c0d8-478e-81de-3558f0e3a1b9",
+        "Timestamp": "2025-11-04T03:40:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "61cf349c-b8d9-4c87-9b68-106d0acbcb55",
+        "Timestamp": "2025-10-16T15:15:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "07505553-fd82-4dad-8a89-ccf9ee41de2f",
+        "Timestamp": "2025-11-09T17:43:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "3765da4c-18a4-4957-b464-34cac6209470",
+        "Timestamp": "2025-10-22T19:53:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "dd8707c4-f22b-471d-b56d-4a9f3c1a4faa",
+        "Timestamp": "2025-11-08T21:56:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "19598338-a70c-4f17-8af4-cddd3edfaf6d",
+        "Timestamp": "2025-11-05T02:24:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "f2b005e1-37ee-4335-afcc-6d3bb1042475",
+        "Timestamp": "2025-10-24T19:49:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Truck",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "83c3a41c-8117-4f8d-b15d-8909ebbc8aa8",
+        "Timestamp": "2025-11-04T21:40:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Truck",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "b2519dff-eb69-488c-8648-c4d2d6fa4272",
+        "Timestamp": "2025-10-23T01:55:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "1e33085b-0c47-4a62-9cde-a354a27a840f",
+        "Timestamp": "2025-10-24T02:27:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Bus",
+        "Severity": "4",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "de07699a-7678-426e-9e7f-a8e45f51f0ad",
+        "Timestamp": "2025-11-12T08:39:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "c8eb2877-a095-47b3-a975-9a4179b7160d",
+        "Timestamp": "2025-10-14T14:15:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Truck",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "a33d9648-a6c4-4ed5-a3e2-988449f95145",
+        "Timestamp": "2025-10-25T06:30:00Z",
+        "Violation_Type": "Lane Changing",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "3e22cf9e-cb84-4be3-a914-ae619bd94c53",
+        "Timestamp": "2025-11-08T09:43:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Intersection_C",
+        "Latitude": "40.7589",
+        "Longitude": "-73.9851"
+    },
+    {
+        "Violation_ID": "d8e0a48a-2e88-405f-88a5-f97fd50d0c0d",
+        "Timestamp": "2025-11-02T21:46:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "3",
+        "Location": "Intersection_A",
+        "Latitude": "40.7128",
+        "Longitude": "-74.0060"
+    },
+    {
+        "Violation_ID": "aeeb2328-f58b-4d45-9b03-5f0b5ba6b718",
+        "Timestamp": "2025-10-15T11:15:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "4",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "7860cf4c-e076-464d-86c8-e6c4215c08d7",
+        "Timestamp": "2025-10-15T02:24:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "5a88a0c1-2b8f-4087-b95f-bfd51a097958",
+        "Timestamp": "2025-11-12T08:56:00Z",
+        "Violation_Type": "Red Light",
+        "Vehicle_Type": "Car",
+        "Severity": "1",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "c0b2f7e9-e435-408b-b2ea-6eb3b41b8425",
+        "Timestamp": "2025-10-17T10:07:00Z",
+        "Violation_Type": "Speeding",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Intersection_B",
+        "Latitude": "40.7359",
+        "Longitude": "-73.9752"
+    },
+    {
+        "Violation_ID": "ac87a83e-6de3-48ab-a427-fa03a3f57e16",
+        "Timestamp": "2025-10-20T03:59:00Z",
+        "Violation_Type": "Parking Violation",
+        "Vehicle_Type": "Car",
+        "Severity": "2",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    },
+    {
+        "Violation_ID": "4f4dbf56-e7ea-45d3-bb31-f3f7ef6f7ecb",
+        "Timestamp": "2025-10-25T18:58:00Z",
+        "Violation_Type": "Illegal U-Turn",
+        "Vehicle_Type": "Car",
+        "Severity": "5",
+        "Location": "Highway_Exit_1",
+        "Latitude": "40.6892",
+        "Longitude": "-74.0445"
+    }
 ]

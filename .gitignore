@@ -1,1 +1,4 @@
 /__pycache__
+/advanced_traffic_analysis
+/traffic_analysis_results
+/cleaned_traffic_violations.parquet
